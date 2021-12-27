@@ -2,9 +2,9 @@
 ----
 ### Contact Information:
 
-* **Phone:** +37529 6929391
+* **Phone:** +37517 3999643
 * **Email:** svereschako@gmail.com
-* **VK:** https://vk.com/svereschako
+* **VK:** vk.com/svereschako
 
 ----
 ### Summary
@@ -12,7 +12,8 @@ I like studying, learning everything new and exciting, seeing new horizons. I li
 
 ----
 ### Skills
-* HTML, CSS
+* HTML
+* CSS
 * JavaScript
 * React.js
 * Git
@@ -28,6 +29,7 @@ print("hello, world");
 ----
 ### Education
 * Belarussian state university of informatics and radioelectronics
+* Financial and economic college
 * HTP Educational Center
 
 ----
