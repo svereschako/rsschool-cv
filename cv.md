@@ -4,7 +4,7 @@
 
 * **Phone:** +37517 3999643
 * **Email:** svereschako@gmail.com
-* **VK:** vk.com/svereschako
+* **VK:** [vk.com/svereschako](https://vk.com/svereschako)
 
 ----
 ### Summary
