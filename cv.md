@@ -8,7 +8,7 @@
 
 ----
 ### Summary
-I like studying, learning everything new and exciting, seeing new horizons. I like coding and seeing result of my work. I want to get knowledge and skills that will let me get employed in company.
+I like studying, learning everything new and exciting, seeing new horizons. I like coding and seeing result of my work. I want to get knowledge and skills that will let me get employed in a company.
 
 ----
 ### Skills
