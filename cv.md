@@ -1,6 +1,6 @@
 ## Sergey Vereschako
 ----
-### Contact Information:
+### Contact Information
 
 * **Phone:** +37517 3999643
 * **Email:** svereschako@gmail.com
