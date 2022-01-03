@@ -32,7 +32,7 @@ body {
   padding: 15px;
 }
 
-.section.skills li, section.education li, section.lang li {
+.section.skills li, section.education li, section.lang li, section.courses li {
   position: relative;
   padding-left: 15px;
 }
@@ -49,7 +49,7 @@ body {
   background-color: #ffffff;
 }
 
-.section.education li:before, section.lang li:before {
+.section.education li:before, section.lang li:before, section.courses li:before {
   content: "";
   position: absolute;
   top: 12px;
